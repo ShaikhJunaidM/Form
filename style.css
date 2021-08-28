@@ -1,0 +1,66 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background: url(https://i.postimg.cc/d00gsCPW/SAVE-20210815-104557.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+.container{
+  color: white;
+  position: absolute;
+  top: 26%;
+  left: 6%;
+}
+.container h1{
+  font-size: 60px;
+  border-bottom: 4px solid purple;
+  margin-bottom: 20px;
+  padding: 10px 0px;
+}
+.box{
+  width: 100%;
+  
+}
+.box input{
+   width: 100%;
+   margin: 10px 10px;
+   border: none;
+   outline: none;
+   font-size: 20px;
+   border-radius: 5px;
+   border-bottom: 3px solid yellow;
+   background: none;
+   color: white;
+}
+.Btn{
+  outline: none;
+  width: 25%;
+  margin: 12px 0;
+  font-size: 15px;
+  padding: 6px 3px;
+  left: 5%;
+  border-color: #32CCBC;
+  border-radius: 20px;
+  background-color: #F8D800;
+  
+}
+h3{
+  margin-top: 20px;
+  padding: 50px;
+  color: white;
+  font-size: 40px;
+  
+}
+.Ok button{
+  margin: 50px 50px;
+  padding: 5px 15px;
+  outline: none;
+  font-size: 20px;
+  font-weight: 500;
+  color: cornsilk;
+  background: none;
+  border-radius: 30px;
+  border-color: coral;
+}
